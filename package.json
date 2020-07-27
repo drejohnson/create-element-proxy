@@ -1,0 +1,12 @@
+{
+  "name": "create-element-proxy",
+  "version": "0.1.0",
+  "main": "index.ts",
+  "repository": "https://github.com/drejohnson/create-element-proxy.git",
+  "author": "Dre Johnson <dre@phreshr.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@yarnpkg/pnpify": "^2.1.0",
+    "typescript": "^3.9.7"
+  }
+}
